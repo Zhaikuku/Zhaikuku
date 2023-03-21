@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akuity&repo=awesome-argo)](https://github.com/akuity/awesome-argo)
 
 
-## 常常用以下解决方案 
+## 常常用以下解决方案  :mag:
 - Kubernetes/istio
 - Ansible
 - Argo CD/ Argo Workflows
