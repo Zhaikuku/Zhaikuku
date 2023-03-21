@@ -18,7 +18,7 @@
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
 - Hacker News [The Hacker News](https://thehackernews.com)
-- 丧心病狂 [丧心病狂]https://github.com/sindresorhus/awesome
+- 丧心病狂 [丧心病狂](https://github.com/sindresorhus/awesome)
 
 ## 目前比较关注的技术 :eyes:
 - WebAssembly [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
