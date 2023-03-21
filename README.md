@@ -9,9 +9,9 @@
 
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/istio
+- Kubernetes/Istio
 - Ansible
-- Argo CD/ Argo Workflows
+- Argo CD/Argo Workflows
 - Python/Go
 
 ## 经常逛这里 :earth_americas:
