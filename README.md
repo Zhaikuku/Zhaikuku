@@ -19,5 +19,5 @@
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
 - Hacker News [The Hacker News](https://thehackernews.com)
 
-## 在这里找到我
+## 在这里找到我:raising_hand:
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
