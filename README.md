@@ -16,7 +16,10 @@
 - Argo CD/ Argo Workflows
 - Python/Go
 
-## 喜欢的开源社区
+## 经常逛这里：
 - 云原生 [CNCF](https://www.cncf.io) 
+- Linux基金会 [LinuxFoundation](https://www.linuxfoundation.org)
+
+
 ## 在这里找到我：
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
