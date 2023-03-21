@@ -22,6 +22,7 @@
 ## 目前比较关注的技术 :eyes:
 - WebAssembly
 - Machine Learning
+- 脑机接口 [资料库](https://github.com/apachecn/awesome-bci-zh)
 
 ## 在这里找到我 :raising_hand:
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
