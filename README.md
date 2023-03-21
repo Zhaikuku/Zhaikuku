@@ -19,7 +19,7 @@
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
 - Hacker News [The Hacker News](https://thehackernews.com)
 - 丧心病狂 [丧心病狂](https://github.com/sindresorhus/awesome)
-
+- 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
 ## 目前比较关注的技术 :eyes:
 - WebAssembly [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
 - Machine Learning [Machine Learning](https://github.com/jindongwang/MachineLearning)
