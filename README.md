@@ -20,9 +20,9 @@
 - Hacker News [The Hacker News](https://thehackernews.com)
 
 ## 目前比较关注的技术 :eyes:
-- WebAssembly
+- [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
 - Machine Learning
-- 脑机接口 [资料库](https://github.com/apachecn/awesome-bci-zh)
+- [脑机接口](https://github.com/apachecn/awesome-bci-zh)
 
 ## 在这里找到我 :raising_hand:
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
