@@ -10,16 +10,16 @@
 
 
 
-## 常常用以下解决方案:
+## 常常用以下解决方案
 - Kubernetes/istio
 - Ansible
 - Argo CD/ Argo Workflows
 - Python/Go
 
-## 经常逛这里：
+## 经常逛这里
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
 - Hacker News [The Hacker News](https://thehackernews.com)
 
-## 在这里找到我：
+## 在这里找到我
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
