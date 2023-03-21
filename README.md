@@ -18,6 +18,7 @@
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
 - Hacker News [The Hacker News](https://thehackernews.com)
+- 国际新闻 [国际新闻](https://github.com/dutymachine/news)
 - 丧心病狂 [丧心病狂](https://github.com/sindresorhus/awesome)
 - 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
 ## 目前比较关注的技术 :eyes:
