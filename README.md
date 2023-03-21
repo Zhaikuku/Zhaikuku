@@ -25,6 +25,7 @@
 - WebAssembly [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
 - Machine Learning [Machine Learning](https://github.com/jindongwang/MachineLearning)
 - 脑机接口 [脑机接口](https://github.com/apachecn/awesome-bci-zh)
+- 无人机 [无人机](https://github.com/apachecn/awesome-drones-zh)
 
 ## 在这里找到我 :raising_hand:
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
