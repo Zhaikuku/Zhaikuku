@@ -22,7 +22,7 @@
 
 ## 目前比较关注的技术 :eyes:
 - WebAssembly [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
-- Machine Learning
+- Machine Learning [Machine Learning](https://github.com/jindongwang/MachineLearning)
 - 脑机接口 [脑机接口](https://github.com/apachecn/awesome-bci-zh)
 
 ## 在这里找到我 :raising_hand:
