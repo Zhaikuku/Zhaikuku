@@ -12,4 +12,4 @@
 - Python/Go
 
 ## 在这里找到我：
-- [bilibili](https://space.bilibili.com/387156712)
+- 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
