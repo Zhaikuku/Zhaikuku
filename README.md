@@ -6,7 +6,7 @@
 ## 时常关注动态
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akuity&repo=awesome-argo)](https://github.com/akuity/awesome-argo)
 ## 常常用一下解决方案:
-Kubernetes/istio
-Ansible
-Argo CD/ Argo Workflows
-Python/Go
+- Kubernetes/istio
+- Ansible
+- Argo CD/ Argo Workflows
+- Python/Go
