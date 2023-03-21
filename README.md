@@ -16,5 +16,7 @@
 - Argo CD/ Argo Workflows
 - Python/Go
 
+## 喜欢的开源社区
+- 云原生 [CNCF](https://www.cncf.io) 
 ## 在这里找到我：
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
