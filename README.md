@@ -23,7 +23,7 @@
 - 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
 ## 目前比较关注的技术 :eyes:
 - WebAssembly [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
-- Machine Learning [Machine Learning](https://github.com/jindongwang/MachineLearning)
+- 机器学习 [Machine Learning](https://github.com/jindongwang/MachineLearning)
 - 脑机接口 [脑机接口](https://github.com/apachecn/awesome-bci-zh)
 - 无人机 [无人机](https://github.com/apachecn/awesome-drones-zh)
 
