@@ -19,7 +19,7 @@
 ## 经常逛这里：
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux基金会 [LinuxFoundation](https://www.linuxfoundation.org)
-
+- Hacker News [The Hacker News](https://thehackernews.com)
 
 ## 在这里找到我：
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
