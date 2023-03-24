@@ -21,6 +21,8 @@
 - 国际新闻 [国际新闻](https://github.com/dutymachine/news)
 - 丧心病狂 [丧心病狂](https://github.com/sindresorhus/awesome)
 - 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
+- 深度学习 [深度学习](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+
 ## 目前比较关注的技术 :eyes:
 - WebAssembly [WASM](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
 - eBPF [eBPF](https://ebpf.io/zh-cn)
