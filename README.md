@@ -9,7 +9,7 @@
 
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/Istio/Kantive
+- Kubernetes/Istio/Knative
 - Ansible
 - Argo CD/Argo Workflows/Tekton
 - Python/Go
