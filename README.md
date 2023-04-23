@@ -24,7 +24,7 @@
 - 深度学习 [深度学习](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ## 目前比较关注的技术 :eyes:
-- WebAssembly [WASM](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
+- WebAssembly [WASM](https://webassembly.org/)
 - eBPF [eBPF](https://ebpf.io/zh-cn)
 - GraalVM [GraalVM](https://www.graalvm.org/)
 - 机器学习 [Machine Learning](https://github.com/jindongwang/MachineLearning)
