@@ -22,7 +22,7 @@
 - 丧心病狂 [丧心病狂](https://github.com/sindresorhus/awesome)
 - 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
 - 深度学习 [深度学习](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
-- AIOps [AI智能运维](https://github.com/chenryn/aiops-handbook)
+- AIOps [AI智能运维](https://github.com/linjinjin123/awesome-AIOps)
 
 ## 目前比较关注的技术 :eyes:
 - WebAssembly [WASM](https://webassembly.org/)
