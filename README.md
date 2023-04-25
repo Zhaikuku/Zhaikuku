@@ -6,7 +6,7 @@
 [![cka-certified-kubernetes-administrator](https://user-images.githubusercontent.com/4213435/183928214-d775ab88-2034-47b5-beba-2ec083462629.png)](https://training.linuxfoundation.cn/certificates/1)
 ## 时常关注动态 :speech_balloon:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akuity&repo=awesome-argo)](https://github.com/akuity/awesome-argo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akuity&repo=awesome-kubeflow)](https://github.com/terrytangyuan/awesome-kubeflow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terrytangyuan&repo=awesome-argo)](https://github.com/terrytangyuan/awesome-kubeflow)
 
 
 ## 常常用以下解决方案  :mag:
