@@ -35,5 +35,11 @@
 - 脑机接口 [脑机接口](https://github.com/apachecn/awesome-bci-zh)
 - 无人机 [无人机](https://github.com/apachecn/awesome-drones-zh)
 
+## 最近在读的书籍：
+- 1984-乔治·奥威尔
+- 存在主义咖啡馆-莎拉·贝克韦尔
+- 第二性-西蒙娜·波伏娃
+- 恶心-让·保罗·萨特
+
 ## 在这里找到我 :raising_hand:
 - 哔哩哔哩 [bilibili](https://space.bilibili.com/387156712)
