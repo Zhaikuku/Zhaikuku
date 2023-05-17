@@ -26,11 +26,12 @@
 - AIOps [AI智能运维](https://github.com/linjinjin123/awesome-AIOps)
 
 ## 目前比较关注的技术 :eyes:
+- LangChain [LangChain](https://github.com/hwchase17/langchain)
+- AutoML [AutoML](https://github.com/windmaple/awesome-AutoML)
 - WebAssembly [WASM](https://webassembly.org/)
 - eBPF [eBPF](https://ebpf.io/zh-cn)
 - GraalVM [GraalVM](https://www.graalvm.org/)
 - 机器学习 [Machine Learning](https://github.com/jindongwang/MachineLearning)
-- AutoML [AutoML](https://github.com/windmaple/awesome-AutoML)
 - 脑机接口 [脑机接口](https://github.com/apachecn/awesome-bci-zh)
 - 无人机 [无人机](https://github.com/apachecn/awesome-drones-zh)
 
