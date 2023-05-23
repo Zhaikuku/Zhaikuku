@@ -8,7 +8,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akuity&repo=awesome-argo)](https://github.com/akuity/awesome-argo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terrytangyuan&repo=awesome-kubeflow)](https://github.com/terrytangyuan/awesome-kubeflow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyrolabs&repo=awesome-langchain)](https://github.com/kyrolabs/awesome-langchain)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Significant-Gravitas&repo=Auto-GPT-Plugins)](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
 
 ## 常常用以下解决方案  :mag:
 - Kubernetes/Istio/Knative
