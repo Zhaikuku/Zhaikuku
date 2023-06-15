@@ -10,6 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyrolabs&repo=awesome-langchain)](https://github.com/kyrolabs/awesome-langchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Significant-Gravitas&repo=Auto-GPT-Plugins)](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veggiemonk&repo=awesome-docker)](https://github.com/veggiemonk/awesome-docker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
 
 ## 常常用以下解决方案  :mag:
 - Kubernetes/Istio/Knative
