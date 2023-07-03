@@ -13,6 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramitsurana&repo=awesome-kubernetes)](https://github.com/ramitsurana/awesome-kubernetes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anksos&repo=awesome-knative)](https://github.com/anksos/awesome-knative)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appcypher&repo=awesome-wasm-langs)](https://github.com/appcypher/awesome-wasm-langs)
 
 ## 常常用以下解决方案  :mag:
 - Kubernetes/Istio/Knative
