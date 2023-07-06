@@ -10,6 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kyrolabs&repo=awesome-langchain)](https://github.com/kyrolabs/awesome-langchain)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Significant-Gravitas&repo=Auto-GPT-Plugins)](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BradyFU&repo=Awesome-Multimodal-Large-Language-Models)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hannibal046&repo=Awesome-LLM)](https://github.com/Hannibal046/Awesome-LLM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veggiemonk&repo=awesome-docker)](https://github.com/veggiemonk/awesome-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramitsurana&repo=awesome-kubernetes)](https://github.com/ramitsurana/awesome-kubernetes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
