@@ -39,7 +39,7 @@
 - AutoML [AutoML](https://github.com/windmaple/awesome-AutoML)
 - WebAssembly [WASM](https://webassembly.org/)
 - eBPF [eBPF](https://ebpf.io/zh-cn)
-- GraalVM [GraalVM](https://www.graalvm.org/)
+- GraalVM [ GraalVM ](https://www.graalvm.org/)
 - 机器学习 [Machine Learning](https://github.com/jindongwang/MachineLearning)
 - 脑机接口 [脑机接口](https://github.com/apachecn/awesome-bci-zh)
 - 无人机 [无人机](https://github.com/apachecn/awesome-drones-zh)
