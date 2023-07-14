@@ -19,6 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anksos&repo=awesome-knative)](https://github.com/anksos/awesome-knative)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appcypher&repo=awesome-wasm-langs)](https://github.com/appcypher/awesome-wasm-langs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidbergwill&repo=awesome-ebpf)](https://github.com/zoidbergwill/awesome-ebpf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-unofficial&repo=awesome-rust)](https://github.com/rust-unofficial/awesome-rust)
 ## 常常用以下解决方案  :mag:
 - Kubernetes/Istio/Knative
 - Ansible
