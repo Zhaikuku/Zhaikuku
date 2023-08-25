@@ -21,6 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidbergwill&repo=awesome-ebpf)](https://github.com/zoidbergwill/awesome-ebpf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-unofficial&repo=awesome-rust)](https://github.com/rust-unofficial/awesome-rust)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GanjinZero&repo=awesome_Chinese_medical_NLP)](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP)](https://github.com/fighting41love/funNLP)
 ## 常常用以下解决方案  :mag:
 - Kubernetes/Istio/Knative
 - Ansible
