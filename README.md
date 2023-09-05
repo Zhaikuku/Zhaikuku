@@ -13,6 +13,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BradyFU&repo=Awesome-Multimodal-Large-Language-Models)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hannibal046&repo=Awesome-LLM)](https://github.com/Hannibal046/Awesome-LLM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dair-ai&repo=Prompt-Engineering-Guide)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GanjinZero&repo=awesome_Chinese_medical_NLP)](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veggiemonk&repo=awesome-docker)](https://github.com/veggiemonk/awesome-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramitsurana&repo=awesome-kubernetes)](https://github.com/ramitsurana/awesome-kubernetes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
@@ -20,7 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appcypher&repo=awesome-wasm-langs)](https://github.com/appcypher/awesome-wasm-langs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidbergwill&repo=awesome-ebpf)](https://github.com/zoidbergwill/awesome-ebpf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-unofficial&repo=awesome-rust)](https://github.com/rust-unofficial/awesome-rust)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GanjinZero&repo=awesome_Chinese_medical_NLP)](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP)](https://github.com/fighting41love/funNLP)
 ## 常常用以下解决方案  :mag:
 - Kubernetes/Istio/Knative
