@@ -21,6 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramitsurana&repo=awesome-kubernetes)](https://github.com/ramitsurana/awesome-kubernetes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anksos&repo=awesome-knative)](https://github.com/anksos/awesome-knative)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samber&repo=awesome-prometheus-alerts)](https://github.com/samber/awesome-prometheus-alerts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=appcypher&repo=awesome-wasm-langs)](https://github.com/appcypher/awesome-wasm-langs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidbergwill&repo=awesome-ebpf)](https://github.com/zoidbergwill/awesome-ebpf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rust-unofficial&repo=awesome-rust)](https://github.com/rust-unofficial/awesome-rust)
