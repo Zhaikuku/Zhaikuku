@@ -8,7 +8,7 @@
 
 ## 时常关注动态 :speech_balloon:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dastergon&repo=awesome-sre)](https://github.com/dastergon/awesome-sre)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=upgundecha&repo=howtheysre)](https://github.com/upgundecha/howtheysre)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekan&repo=HowToLiveLonger)](https://github.com/geekan/HowToLiveLonger)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DovAmir&repo=awesome-design-patterns)](https://github.com/DovAmir/awesome-design-patterns)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akuity&repo=awesome-argo)](https://github.com/akuity/awesome-argo)
