@@ -31,7 +31,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP)](https://github.com/fighting41love/funNLP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=knownsec&repo=404StarLink)](https://github.com/knownsec/404StarLink)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agile6v&repo=awesome-nginx)](https://github.com/agile6v/awesome-nginx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidbergwill&repo=awesome-ebpf)](https://github.com/zoidbergwill/awesome-ebpf)
 
 
 ## 常常用以下解决方案  :mag:
