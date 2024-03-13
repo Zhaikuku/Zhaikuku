@@ -17,6 +17,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Significant-Gravitas&repo=Auto-GPT-Plugins)](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BradyFU&repo=Awesome-Multimodal-Large-Language-Models)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hannibal046&repo=Awesome-LLM)](https://github.com/Hannibal046/Awesome-LLM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr0gger&repo=Awesome-GPT-Agents)](https://github.com/fr0gger/Awesome-GPT-Agents)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dair-ai&repo=Prompt-Engineering-Guide)](https://github.com/dair-ai/Prompt-Engineering-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GanjinZero&repo=awesome_Chinese_medical_NLP)](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
