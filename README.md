@@ -21,6 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hannibal046&repo=Awesome-LLM)](https://github.com/Hannibal046/Awesome-LLM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fr0gger&repo=Awesome-GPT-Agents)](https://github.com/fr0gger/Awesome-GPT-Agents)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dair-ai&repo=Prompt-Engineering-Guide)](https://github.com/dair-ai/Prompt-Engineering-Guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coleam00&repo=context-engineering-intro)](https://github.com/coleam00/context-engineering-intro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GanjinZero&repo=awesome_Chinese_medical_NLP)](https://github.com/GanjinZero/awesome_Chinese_medical_NLP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=veggiemonk&repo=awesome-docker)](https://github.com/veggiemonk/awesome-docker)
