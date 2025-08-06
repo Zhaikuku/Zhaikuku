@@ -64,7 +64,7 @@
 - 脑机接口 [脑机接口](https://github.com/apachecn/awesome-bci-zh)
 - 无人机 [无人机](https://github.com/apachecn/awesome-drones-zh)
 
-## 最近在读的书籍：🤔
+## 最近在读的书籍：🤔 !!!!! 不看书了, 摆烂喽！！ crazy！ crazy！crazy！
 - 《1984》           乔治·奥威尔 🚩
 - 《存在主义咖啡馆》  莎拉·贝克韦尔 🚩
 - 《第二性》         西蒙娜·波伏娃 🚩
