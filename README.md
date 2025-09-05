@@ -34,9 +34,9 @@
 
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/Istio/Knative/kubeflow
+- Kubernetes/istio/knative/kubeflow
 - Ansible/terraform
-- Jenkins/ArgoCD/ArgoWorkflows/Tekton
+- Jenkins/argoCD/argoWorkflows/tekton
 - Python
 - Ubuntu
 
