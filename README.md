@@ -34,12 +34,14 @@
 
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/istio/knative/kubeflow
+- Kubernetes/istio/kubeflow
 - Ansible/terraform
 - Jenkins/argoCD/argoWorkflows/tekton
 - Python
 - Ubuntu
-
+- Prometheus/alertmanager/Grafana
+- loki-stack
+- n8n
 ## 经常逛这里 :earth_americas:
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
