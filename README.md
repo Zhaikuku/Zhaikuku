@@ -1,4 +1,4 @@
-## set +o history; bash -cuxo pipefail "echo 你好, 我的名字叫翟昊天, 我是一位运维工程师."
+## set +o history;bash -cuxo pipefail "echo 你好, 我的名字叫翟昊天, 我是一位运维工程师." > /dev/stdout 2>&1
 
 ## 统计信息 :information_desk_person:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaikuku&layout=compact&card_width=400&locale=cn&theme=aura)](https://github.com/anuraghazra/github-readme-stats) <br />
