@@ -13,7 +13,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramitsurana&repo=awesome-kubernetes)](https://github.com/ramitsurana/awesome-kubernetes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nubenetes&repo=awesome-kubernetes)](https://github.com/nubenetes/awesome-kubernetes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidbergwill&repo=awesome-ebpf)](https://github.com/zoidbergwill/awesome-ebpf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidyzoidzoid&repo=awesome-ebpf)](https://github.com/zoidyzoidzoid/awesome-ebpf)
+
 
 
 ## 常常用以下解决方案  :mag:
