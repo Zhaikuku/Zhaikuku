@@ -20,7 +20,7 @@
 ## 常常用以下解决方案  :mag:
 - Kubernetes/istio/kubeflow
 - Ansible/terraform
-- Jenkins/argoCD/argoWorkflows/tekton
+- Jenkins/argoCD/argoWorkflows
 - Python
 - Ubuntu
 - Prometheus/alertmanager/Grafana
