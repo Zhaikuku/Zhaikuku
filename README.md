@@ -34,10 +34,11 @@
 
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/Istio/Knative
-- Ansible
-- Argo CD/Argo Workflows/Tekton
-- Python/Go
+- Kubernetes/Istio/Knative/kubeflow
+- Ansible/terraform
+- Jenkins/ArgoCD/ArgoWorkflows/Tekton
+- Python
+- Ubuntu
 
 ## 经常逛这里 :earth_americas:
 - 云原生 [CNCF](https://www.cncf.io) 
