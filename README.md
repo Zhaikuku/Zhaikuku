@@ -9,11 +9,10 @@
 ## 时常关注动态 :speech_balloon:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuchin&repo=awesome-cto)](https://github.com/kuchin/awesome-cto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terrytangyuan&repo=awesome-kubeflow)](https://github.com/terrytangyuan/awesome-kubeflow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramitsurana&repo=awesome-kubernetes)](https://github.com/ramitsurana/awesome-kubernetes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nubenetes&repo=awesome-kubernetes)](https://github.com/nubenetes/awesome-kubernetes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidyzoidzoid&repo=awesome-ebpf)](https://github.com/zoidyzoidzoid/awesome-ebpf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
 
 
 
