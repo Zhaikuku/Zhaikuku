@@ -1,3 +1,4 @@
+# /usr/bin/bash -c -u -x -o pipefail -c "echo 你好,  我的名字叫 [翟昊天](https://github.com/Zhaikuku?tab=stars), 我是一位运维工程师."
 # 你好,  我的名字叫 [翟昊天](https://github.com/Zhaikuku?tab=stars), 我是一位运维工程师.
 
 ## 统计信息 :information_desk_person:
