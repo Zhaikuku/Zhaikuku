@@ -18,14 +18,15 @@
 
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/istio/kubeflow
+- Kubernetes/istio
 - Ansible/terraform
-- Jenkins/argoCD/argoWorkflows
+- Jenkins/argoCD/argo-workflows
 - Python
 - Ubuntu
 - Prometheus/alertmanager/Grafana
 - loki-stack
 - n8n
+- kubeflow
 ## 经常逛这里 :earth_americas:
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
