@@ -24,6 +24,7 @@
 - Ubuntu
 - Prometheus/alertmanager/Grafana
 - loki-stack
+- opentelemetry
 - n8n
 - kubeflow
 ## 经常逛这里 :earth_americas:
