@@ -13,6 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidyzoidzoid&repo=awesome-ebpf)](https://github.com/zoidyzoidzoid/awesome-ebpf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serpapi&repo=awesome-seo-tools)](https://github.com/serpapi/awesome-seo-tools)
 
 
 
