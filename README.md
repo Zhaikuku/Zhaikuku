@@ -18,16 +18,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=containerd&repo=stargz-snapshotter)](https://github.com/containerd/stargz-snapshotter)
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/istio
+- Kubernetes/k3s/istio
 - Ansible/terraform
 - Jenkins/argoCD/argo-workflows
-- Python
+- Python/Shell
 - Ubuntu
 - Prometheus/alertmanager/Grafana
 - loki-stack
 - opentelemetry
 - n8n
-- kubeflow
+- kubeflow/kubeRay
 ## 经常逛这里 :earth_americas:
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
