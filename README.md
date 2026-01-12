@@ -1,8 +1,11 @@
 ## set +o history;bash -cuxo pipefail "echo 你好, 我的名字叫翟昊天, 我是一位运维工程师." > /dev/stdout 2>&1
 
-## 统计信息 :information_desk_person:
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Zhaikuku&layout=compact&card_width=400&locale=cn&theme=aura)](https://github.com/anuraghazra/github-readme-stats) <br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhaikuku&show_icons=true&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+# 👋 Hi, I'm HaoT Zhai
+
+> Cloud Native · Kubernetes · Platform Engineering  
+> 专注 **云原生架构 / K8s 生产实践 / eBPF / AI Infra**
+
+---
 ## 证书 :100:
 [![cka-certified-kubernetes-administrator](https://user-images.githubusercontent.com/4213435/183928214-d775ab88-2034-47b5-beba-2ec083462629.png)](https://training.linuxfoundation.cn/certificates/1)
 
