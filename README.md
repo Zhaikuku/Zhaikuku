@@ -6,16 +6,30 @@
 ## 证书 :100:
 [![cka-certified-kubernetes-administrator](https://user-images.githubusercontent.com/4213435/183928214-d775ab88-2034-47b5-beba-2ec083462629.png)](https://training.linuxfoundation.cn/certificates/1)
 
-## 时常关注动态 :speech_balloon:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuchin&repo=awesome-cto)](https://github.com/kuchin/awesome-cto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terrytangyuan&repo=awesome-kubeflow)](https://github.com/terrytangyuan/awesome-kubeflow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ramitsurana&repo=awesome-kubernetes)](https://github.com/ramitsurana/awesome-kubernetes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoidyzoidzoid&repo=awesome-ebpf)](https://github.com/zoidyzoidzoid/awesome-ebpf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serpapi&repo=awesome-seo-tools)](https://github.com/serpapi/awesome-seo-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tentenco&repo=awesome-geo)](https://github.com/tentenco/awesome-geo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=containerd&repo=stargz-snapshotter)](https://github.com/containerd/stargz-snapshotter)
+## 📚 长期关注 & 推荐项目
+
+| 项目 | 方向 |
+|------|------|
+| 🔗 [awesome-cto](https://github.com/kuchin/awesome-cto) | CTO 视角 · 技术领导力 |
+| 🔗 [awesome-kubeflow](https://github.com/terrytangyuan/awesome-kubeflow) | Kubeflow · MLOps |
+| 🔗 [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | Kubernetes 生态 |
+| 🔗 [awesome-istio](https://github.com/mstrYoda/awesome-istio) | Istio · Service Mesh |
+| 🔗 [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) | eBPF · Kernel |
+| 🔗 [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) |AIGC · 精选教程资源|
+| 🔗 [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | SEO ·  工具链 |
+| 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加
+
+## 📚 长期关注 & 推荐项目
+
+| 项目 | 方向 |
+|------|------|
+| 🔗 [awesome-cto](https://github.com/kuchin/awesome-cto) | CTO 视角 · 技术领导力 |
+| 🔗 [awesome-kubeflow](https://github.com/terrytangyuan/awesome-kubeflow) | Kubeflow · MLOps |
+| 🔗 [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | Kubernetes 生态 |
+| 🔗 [awesome-istio](https://github.com/mstrYoda/awesome-istio) | Istio · Service Mesh |
+| 🔗 [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) | eBPF · Kernel |
+| 🔗 [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | SEO 工具链 |
+| 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加速 |
 
 ## 常常用以下解决方案  :mag:
 - Kubernetes/k3s/istio
