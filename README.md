@@ -15,7 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luban-agi&repo=Awesome-AIGC-Tutorials)](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=serpapi&repo=awesome-seo-tools)](https://github.com/serpapi/awesome-seo-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tentenco&repo=awesome-geo)](https://github.com/tentenco/awesome-geo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=containerd&stargz-snapshotter)](https://github.com/containerd/stargz-snapshotter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=containerd&repo=stargz-snapshotter)](https://github.com/containerd/stargz-snapshotter)
 
 ## 常常用以下解决方案  :mag:
 - Kubernetes/istio
