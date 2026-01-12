@@ -17,19 +17,9 @@
 | 🔗 [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) | eBPF · Kernel |
 | 🔗 [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) |AIGC · 精选教程资源|
 | 🔗 [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | SEO ·  工具链 |
-| 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加
-
-## 📚 长期关注 & 推荐项目
-
-| 项目 | 方向 |
-|------|------|
-| 🔗 [awesome-cto](https://github.com/kuchin/awesome-cto) | CTO 视角 · 技术领导力 |
-| 🔗 [awesome-kubeflow](https://github.com/terrytangyuan/awesome-kubeflow) | Kubeflow · MLOps |
-| 🔗 [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | Kubernetes 生态 |
-| 🔗 [awesome-istio](https://github.com/mstrYoda/awesome-istio) | Istio · Service Mesh |
-| 🔗 [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) | eBPF · Kernel |
-| 🔗 [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | SEO 工具链 |
 | 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加速 |
+| 🔗 [awesome-geo](https://github.com/tentenco/awesome-geo) | AI · 生成式搜索引擎优化 |
+
 
 ## 常常用以下解决方案  :mag:
 - Kubernetes/k3s/istio
