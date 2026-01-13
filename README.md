@@ -1,4 +1,4 @@
-## set +o history;bash -cuxo pipefail "echo 你好, 我的名字叫翟昊天, 我是一位运维工程师." > /dev/stdout 2>&1
+## ( set +o history; bash -c 'set -Eeuo pipefail; echo "你好, 我的名字叫翟昊天, 我是一位运维工程师."' )
 
 # 👋 Hi, I'm HaoT Zhai
 
