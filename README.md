@@ -32,7 +32,7 @@
 - Ubuntu
 - Prometheus/alertmanager/Grafana
 - loki-stack
-- opentelemetry
+- opentelemetry/tempo
 - n8n
 - kubeflow/kubeRay
 ## 经常逛这里 :earth_americas:
