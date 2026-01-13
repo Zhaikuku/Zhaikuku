@@ -23,6 +23,7 @@
 | 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加速 |
 | 🔗 [awesome-geo](https://github.com/tentenco/awesome-geo) | AI · 生成式搜索引擎优化 |
 | 🔗 [dev-sec](https://github.com/dev-sec) | Linux · DevSec 加固框架 |
+| 🔗 [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) | SRE · 哥们的梦想职业 |
 
 
 ## 常常用以下解决方案  :mag:
