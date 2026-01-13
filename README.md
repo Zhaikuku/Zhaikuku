@@ -3,7 +3,7 @@
 # 👋 Hi, I'm HaoT Zhai
 
 > Cloud Native · Kubernetes · Platform Engineering  
-> 专注 **云原生架构 / K8s 生产实践 / eBPF / AI Infra**
+> 专注 **云原生架构 / SRE 生产实践 / eBPF / AI Infra**
 
 ---
 ## 证书 :100:
