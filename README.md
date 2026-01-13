@@ -22,6 +22,7 @@
 | 🔗 [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | SEO ·  工具链 |
 | 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加速 |
 | 🔗 [awesome-geo](https://github.com/tentenco/awesome-geo) | AI · 生成式搜索引擎优化 |
+| 🔗 [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) | Linux · 基线加固 |
 
 
 ## 常常用以下解决方案  :mag:
