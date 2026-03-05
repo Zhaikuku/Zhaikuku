@@ -23,7 +23,7 @@
 | 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加速 |
 | 🔗 [awesome-geo](https://github.com/tentenco/awesome-geo) | AI · 生成式搜索引擎优化 |
 | 🔗 [dev-sec](https://github.com/dev-sec) | Linux · DevSec 加固框架 |
-| 🔗 [ansible-lockdown](https://github.com/ansible-lockdown) | 合规性 |
+| 🔗 [ansible-lockdown](https://github.com/ansible-lockdown) | 安全基线自动化 |
 | 🔗 [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) | SRE · 哥们的梦想职业 |
 
 
