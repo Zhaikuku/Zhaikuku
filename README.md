@@ -18,6 +18,7 @@
 | 🔗 [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) | Kubernetes 生态 |
 | 🔗 [awesome-istio](https://github.com/mstrYoda/awesome-istio) | Istio · Service Mesh |
 | 🔗 [awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) | eBPF · Kernel |
+| 🔗 [awesome-cilium](https://github.com/seifrajhi/awesome-cilium) | eBPF · cilium |
 | 🔗 [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) |AIGC · 精选教程资源|
 | 🔗 [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | SEO ·  工具链 |
 | 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加速 |
