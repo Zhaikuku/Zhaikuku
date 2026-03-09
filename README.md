@@ -23,8 +23,7 @@
 | 🔗 [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) | SEO ·  工具链 |
 | 🔗 [stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) | containerd · 镜像加速 |
 | 🔗 [awesome-geo](https://github.com/tentenco/awesome-geo) | AI · 生成式搜索引擎优化 |
-| 🔗 [dev-sec](https://github.com/dev-sec) | Linux · DevSec 加固框架 |
-| 🔗 [ansible-lockdown](https://github.com/ansible-lockdown) | 安全基线自动化 |
+| 🔗 [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) | Linux · DevSec 加固框架 |
 | 🔗 [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) | SRE · 哥们的梦想职业 |
 
 
