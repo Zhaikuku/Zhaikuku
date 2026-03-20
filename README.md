@@ -40,6 +40,7 @@
 - Sentry
 - n8n
 - kubeflow/kubeRay
+- frp
 ## 经常逛这里 :earth_americas:
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
