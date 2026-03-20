@@ -30,14 +30,13 @@
 
 
 ## 常常用以下解决方案  :mag:
-- Kubernetes/k3s/istio
+- Kubernetes/k3s/istio/containerd/cilium
 - Ansible/terraform
 - Jenkins/argoCD/argo-workflows
 - Python/Shell
-- Ubuntu/systemd
-- Prometheus/alertmanager/Grafana
-- loki-stack
-- opentelemetry/tempo
+- Ubuntu(systemd)
+- Prometheus/alertmanager/Grafana/pyroscope/loki/tempo
+- opentelemetry
 - Sentry
 - n8n
 - kubeflow/kubeRay
