@@ -34,7 +34,7 @@
 - Ansible/terraform
 - Jenkins/argoCD/argo-workflows
 - Python/Shell
-- Ubuntu
+- Ubuntu/systemd
 - Prometheus/alertmanager/Grafana
 - loki-stack
 - opentelemetry/tempo
