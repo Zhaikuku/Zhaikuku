@@ -25,7 +25,7 @@
 | 🔗 [awesome-geo](https://github.com/tentenco/awesome-geo) | AI · 生成式搜索引擎优化 |
 | 🔗 [ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) | Linux · DevSec 加固框架 |
 | 🔗 [sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) | SRE · 哥们的梦想职业 |
-
+| 🔗 [awesome-sre-skills](https://github.com/sinzin91/awesome-sre-skills) | SRE · skills |
 
 
 
