@@ -32,7 +32,7 @@
 ## 常常用以下解决方案  :mag:
 - Kubernetes/k3s/istio/containerd/cilium
 - Ansible/terraform
-- Jenkins/argoCD/argo-workflows
+- Jenkins/argoCD/argo-workflows/Tekton
 - Python/Shell
 - Ubuntu(systemd)
 - Prometheus/alertmanager/Grafana/pyroscope/loki/tempo
