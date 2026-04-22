@@ -36,7 +36,7 @@
 - Jenkins/argoCD/argo-workflows/Tekton
 - Python/Shell
 - Ubuntu(systemd)
-- Prometheus/alertmanager/Grafana/pyroscope/loki/tempo
+- Prometheus/alertmanager/Grafana/pyroscope/loki/tempo/onCall
 - opentelemetry
 - Sentry
 - n8n
