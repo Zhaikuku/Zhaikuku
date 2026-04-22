@@ -33,16 +33,16 @@
 ## 常常用以下解决方案  :mag:
 - Kubernetes/k3s/istio/containerd/cilium
 - Ansible/terraform
-- Jenkins/argoCD/argo-workflows/Tekton
+- Jenkins/Argo CD/Argo Workflows/Tekton
 - Python/Shell
 - Ubuntu(systemd)
 - Prometheus/alertmanager/Grafana/pyroscope/loki/tempo/onCall
-- opentelemetry
+- OpenTelemetry
 - Sentry
 - n8n
 - kubeflow/kubeRay
 - frp
-- backstage
+- Backstage
 ## 经常逛这里 :earth_americas:
 - 云原生 [CNCF](https://www.cncf.io) 
 - Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
